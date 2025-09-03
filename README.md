@@ -90,10 +90,19 @@ By excluding the peak points, we can now better view the **general trend** of nu
 From the yearly view, it is obvious that Aug, Sep and Oct are stronger in terms of number of engaged students. This can be contributed by the "Three free-or-charge days" in Aug, Platform Gamification in Sep and Marketing Campaigns in Oct.
 <img width="1532" height="825" alt="image" src="https://github.com/user-attachments/assets/4f953113-715e-4974-81ef-5da7ef7acc20" />
 
+### Onboarding & Retention
 
+The onboarding rate of students significantly increased after mid of September. By referring to the platform calendar, the new gamified version of platform was officially launched on September 16th. Thus, we can conclude that the **gamification caused the increase in onboarding rate**.
+<img width="1497" height="291" alt="image" src="https://github.com/user-attachments/assets/09a2060f-7177-4b4a-8968-fd281187de49" />
 
+As expected, most of the free plan students remain engaged only during the month they onboarded, which is why period 0 is colored in dark green.
+<img width="1520" height="433" alt="image" src="https://github.com/user-attachments/assets/3eafd32f-b76b-4580-bac8-60d5a1c06e1d" />
 
+On January, only 3.0% of free students remain engaged on the following month. It is also likely that a small portion of students converted to paid plan.
+Thus, solution is needed to increase free students time on the platform
+<img width="1510" height="671" alt="image" src="https://github.com/user-attachments/assets/2ecc0d6c-625c-4399-9c5c-1620191401f2" />
 
+In contrast, the trend of paid students remain engaged on the platform 
 
 
 
